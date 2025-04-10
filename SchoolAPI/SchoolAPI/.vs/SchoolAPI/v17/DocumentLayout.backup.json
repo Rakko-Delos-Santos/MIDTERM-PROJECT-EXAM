@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SchoolAPI\\SchoolAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|c:\\schoolapi\\schoolapi\\schoolapi\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|c:\\schoolapi\\schoolapi\\schoolapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|c:\\schoolapi\\schoolapi\\schoolapi\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|c:\\schoolapi\\schoolapi\\schoolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|c:\\schoolapi\\schoolapi\\schoolapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|c:\\schoolapi\\schoolapi\\schoolapi\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|c:\\schoolapi\\schoolapi\\schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3676B22-F92E-42EC-86BE-B36E61F595A7}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "SchoolAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:10:14.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SectionsController.cs",
+              "DocumentMoniker": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\Controllers\\SectionsController.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Controllers\\SectionsController.cs",
+              "ToolTip": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\Controllers\\SectionsController.cs",
+              "RelativeToolTip": "SchoolAPI\\Controllers\\SectionsController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:50:50.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolAPI\\appsettings.json",
+              "ToolTip": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\appsettings.json",
+              "RelativeToolTip": "SchoolAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T09:00:07.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Program.cs",
+              "ToolTip": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\Program.cs",
+              "RelativeToolTip": "SchoolAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:51:25.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "SchoolAPI\\wwwroot\\script.js",
+              "ToolTip": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\script.js*",
+              "RelativeToolTip": "SchoolAPI\\wwwroot\\script.js*",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-10T08:49:01.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\styles.css",
+              "RelativeDocumentMoniker": "SchoolAPI\\wwwroot\\styles.css",
+              "ToolTip": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\styles.css",
+              "RelativeToolTip": "SchoolAPI\\wwwroot\\styles.css",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-10T08:48:27.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "SchoolAPI\\wwwroot\\index.html",
+              "ToolTip": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\index.html",
+              "RelativeToolTip": "SchoolAPI\\wwwroot\\index.html",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-10T08:47:49.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

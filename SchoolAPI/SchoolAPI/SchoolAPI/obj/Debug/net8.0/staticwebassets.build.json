@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "gMTHlqmXs9bWA/Vz70lYHEgh1fEDnxa6jiJ0wgma2g0=",
+  "Source": "SchoolAPI",
+  "BasePath": "_content/SchoolAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SchoolAPI\\wwwroot",
+      "Source": "SchoolAPI",
+      "ContentRoot": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\",
+      "BasePath": "_content/SchoolAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\index.html",
+      "SourceId": "SchoolAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\",
+      "BasePath": "_content/SchoolAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n384mmvrk0",
+      "Integrity": "A6DIw7ejIZ0VCOLD9TOYAlbE+M7UQMw35EesYXpXRVQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\script.js",
+      "SourceId": "SchoolAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\",
+      "BasePath": "_content/SchoolAPI",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "45pvboe3bu",
+      "Integrity": "CHygtCZDSjokf0Oc/DBpYP960hUnD/HU9OPEbo+ziv4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\styles.css",
+      "SourceId": "SchoolAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\",
+      "BasePath": "_content/SchoolAPI",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d404mn8wlf",
+      "Integrity": "net88RXpniJDbm070lmk+1IdRtoJ2sbv52stZ0HkR/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A6DIw7ejIZ0VCOLD9TOYAlbE+M7UQMw35EesYXpXRVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 11:25:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A6DIw7ejIZ0VCOLD9TOYAlbE+M7UQMw35EesYXpXRVQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.n384mmvrk0.html",
+      "AssetFile": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A6DIw7ejIZ0VCOLD9TOYAlbE+M7UQMw35EesYXpXRVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 11:25:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n384mmvrk0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A6DIw7ejIZ0VCOLD9TOYAlbE+M7UQMw35EesYXpXRVQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.45pvboe3bu.js",
+      "AssetFile": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CHygtCZDSjokf0Oc/DBpYP960hUnD/HU9OPEbo+ziv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 11:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "45pvboe3bu"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CHygtCZDSjokf0Oc/DBpYP960hUnD/HU9OPEbo+ziv4="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CHygtCZDSjokf0Oc/DBpYP960hUnD/HU9OPEbo+ziv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 11:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CHygtCZDSjokf0Oc/DBpYP960hUnD/HU9OPEbo+ziv4="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"net88RXpniJDbm070lmk+1IdRtoJ2sbv52stZ0HkR/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:48:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-net88RXpniJDbm070lmk+1IdRtoJ2sbv52stZ0HkR/I="
+        }
+      ]
+    },
+    {
+      "Route": "styles.d404mn8wlf.css",
+      "AssetFile": "C:\\SchoolAPI\\SchoolAPI\\SchoolAPI\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"net88RXpniJDbm070lmk+1IdRtoJ2sbv52stZ0HkR/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:48:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d404mn8wlf"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-net88RXpniJDbm070lmk+1IdRtoJ2sbv52stZ0HkR/I="
+        }
+      ]
+    }
+  ]
+}
